@@ -1,0 +1,2 @@
+# Mail-spamer
+For termux
